@@ -1,0 +1,14 @@
+/* body style*/
+body{
+    background-color: violet;
+}
+/* h1 style*/
+h1{
+    color: blue;
+    font-size: 3em;
+}
+/* :hover pseudo class for h1*/
+h1:hover {
+    background-color: blueviolet;
+    color: white;
+}
